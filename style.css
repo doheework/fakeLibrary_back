@@ -1,0 +1,122 @@
+body{
+    background: #000000;
+}
+
+.main{
+    position:fixed;
+    width:1900px;
+    height:573.57px;
+    max-width:120%;
+    height:auto;
+    text-align:center;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    z-index:2;
+}
+
+
+
+#shh{
+    position: absolute;
+    font-family: Comic Neue;
+    font-size:30;
+    z-index:3;
+    top:300px;
+    left:0;
+    color: #FFFFFF;
+}
+
+.color{
+    position:fixed;
+    width:1900px;
+    height:573.57px;
+    max-width:120%;
+    height:auto;
+    text-align:center;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    z-index:1;
+}
+
+.theuseofPHISICS{
+    width: 800px;
+    height: 320px;
+    max-width:50%;
+    height:auto;
+}
+
+.theuseofPHISICScolor{
+    width: 800px;
+    height: 320px;
+    max-width:50%;
+    height:auto;
+}
+
+.theuseofPHISICS:hover {
+    opacity:0;
+    cursor:pointer;
+}
+
+
+.PatternsofCivilization{
+    width: 800px;
+    height: 320px;
+    max-width:50%;
+    height:auto;
+}
+
+.PatternsofCivilizationcolor{
+    width: 800px;
+    height: 320px;
+    max-width:50%;
+    height:auto;
+    
+}
+
+.PatternsofCivilization:hover{
+    opacity:0;
+    cursor:pointer;
+}
+
+.ECOLOGYtheutilization{
+    width: 800px;
+    height: 320px;
+    max-width:50%;
+    height:auto;
+}
+
+.ECOLOGYtheutilizationcolor{
+    width: 800px;
+    height: 320px;
+    max-width:50%;
+    height:auto;
+    
+}
+
+.ECOLOGYtheutilization:hover {
+    opacity:0;
+    cursor:pointer;
+}
+
+.ANALYSIS{
+    width: 800px;
+    height: 320px;
+    max-width:50%;
+    height:auto;
+}
+
+.ANALYSIScolor{
+    width: 800px;
+    height: 320px;
+    max-width:50%;
+    height:auto;
+   
+}
+
+.ANALYSIS:hover {
+    opacity:0;
+    cursor:pointer;
+}
+
